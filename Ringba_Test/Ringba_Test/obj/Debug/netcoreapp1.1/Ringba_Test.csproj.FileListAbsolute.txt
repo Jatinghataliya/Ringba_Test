@@ -1,0 +1,5 @@
+c:\users\jatin.ghataliya\documents\visual studio 2017\Projects\Ringba_Test\Ringba_Test\bin\Debug\netcoreapp1.1\Ringba_Test.deps.json
+c:\users\jatin.ghataliya\documents\visual studio 2017\Projects\Ringba_Test\Ringba_Test\bin\Debug\netcoreapp1.1\Ringba_Test.runtimeconfig.json
+c:\users\jatin.ghataliya\documents\visual studio 2017\Projects\Ringba_Test\Ringba_Test\bin\Debug\netcoreapp1.1\Ringba_Test.runtimeconfig.dev.json
+c:\users\jatin.ghataliya\documents\visual studio 2017\Projects\Ringba_Test\Ringba_Test\obj\Debug\netcoreapp1.1\Ringba_Test.csprojResolveAssemblyReference.cache
+c:\users\jatin.ghataliya\documents\visual studio 2017\Projects\Ringba_Test\Ringba_Test\obj\Debug\netcoreapp1.1\Ringba_Test.AssemblyInfo.cs
